@@ -258,7 +258,7 @@ ul {
     display: flex;
     align-items: center;
 
-    background-image: url("images/hero-pool.jpg");
+    background-image: url("./imgaes/pool.jpg");
 
     background-size: cover;
     background-position: center;
@@ -266,6 +266,9 @@ ul {
     color: var(--white);
 
     overflow: hidden;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+
 }
 
 
